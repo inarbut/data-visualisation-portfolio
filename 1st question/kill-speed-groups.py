@@ -8,7 +8,7 @@ from awpy.data import TRIS_DIR
 BASE_PATH = r"F:\steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\replays"
 
 DEMOS_AND_PLAYERS = [
-    ("match730_003784446263911514537_1478082598_187.dem", 76561198262157518, "arckay."),
+    ("match730_003784446263911514537_1478082598_187.dem", 76561198262157518, "arckay."), # people who I know are definetly cheating
     ("match730_003784108645122310500_1981615639_411.dem", 76561198155980865, "KosyaK"),
     ("match730_003783868685299483229_2047292477_192.dem", 76561198962223770, "patsan"),
     ("match730_003788960304604381265_2009075138_192.dem", 76561198155980865, "KosyaK"),
