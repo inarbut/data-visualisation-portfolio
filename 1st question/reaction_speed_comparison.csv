@@ -1,0 +1,3 @@
+group,total_reactions_analyzed,avg_reaction_time_ms,median_reaction_time_ms,min_reaction_time_ms,max_reaction_time_ms,std_reaction_time_ms,avg_reaction_ticks
+Tracked Players,143,344.41,234.38,0.0,3000.0,482.24,22.04
+Other Players,446,392.59,312.5,0.0,3000.0,441.85,25.13
